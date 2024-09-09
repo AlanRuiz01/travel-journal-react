@@ -1,0 +1,29 @@
+ section img{
+    max-width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    transition: transform 0.5s;
+}
+.locations{
+    display: flex;
+
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.details{
+    margin-left: 15px;
+}
+
+.location-logo{
+    width: 20px;
+}
+
+a{
+    color: #918E9B;
+}
+.bold{
+    font-weight: bold;
+}
+section img:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,11 @@
+
+.nav{
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav h1{
+    color: #ffffff;
+    margin-left: 5px;
+}
